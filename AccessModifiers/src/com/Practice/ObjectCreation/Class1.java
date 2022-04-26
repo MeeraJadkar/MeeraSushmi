@@ -12,6 +12,8 @@ public class Class1 {
  
 		Class1 obj = new Class1(); // new is reserved word
 		System.out.println("The value of var1 is "+ obj.var1);
+		System.out.println("sdsjdsjdhgyuasgdiusj");
+	
 		
 // object name should be unique if it is duplicate then it will give error.
 		
